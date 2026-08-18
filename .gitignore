@@ -1,0 +1,42 @@
+# Build output
+bin/
+obj/
+release/
+Release/
+Debug/
+x64/
+x86/
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet / SDK generated files
+packages/
+project.assets.json
+*.nuget.dgspec.json
+*.nuget.g.props
+*.nuget.g.targets
+
+# Runtime logs
+*.log
+FanControl.ClevoHelper.log
+
+# Binary artifacts
+*.pdb
+*.cache
+*.ilk
+*.obj
+*.dll
+*.exe
+
+!Dlls/*
+Dlls/FanControl.Plugins.dll
+!NTPortDrvSetup.exe
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini

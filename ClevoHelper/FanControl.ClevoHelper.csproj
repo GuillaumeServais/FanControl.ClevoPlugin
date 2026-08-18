@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <AssemblyName>FanControl.ClevoHelper</AssemblyName>
+    <RootNamespace>FanControl.ClevoHelper</RootNamespace>
+    <OutputType>Exe</OutputType>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+</Project>
